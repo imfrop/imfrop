@@ -1,8 +1,8 @@
 ## Luiz Eduardo
 
-<p>・Programador Amador<br>
-・Brasil<br>
-・Estudante de Design na PUC GO</p>
+- Programador Amador
+- Brasil
+- Estudante de Design na PUC GO
 
 ##
 ## Redes sociais
@@ -16,8 +16,8 @@
 
 ##
 ## Projetos
-<p>Bots de Discord - Yoshikage Kira & Miss All Sunday<br>
-Meu site (https://frop.info)</p>
+- Bots de Discord - Yoshikage Kira & Miss All Sunday<br>
+- <a href="https://frop.info">Meu site</a>
 
 ## 
 
