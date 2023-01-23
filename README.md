@@ -14,6 +14,9 @@
 - CSS
 - HTML
 
+## Plataformas
+- VSCode
+
 ## Projetos
 - Bots de Discord - Yoshikage Kira & Miss All Sunday<br>
 - <a href="https://frop.info">Meu site</a>
