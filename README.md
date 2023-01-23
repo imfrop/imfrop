@@ -14,7 +14,7 @@
 ##
 ## Projetos
 Bots de Discord - Yoshikage Kira & Miss All Sunday
-![Meu site -> frop.info]
+![]Meu site(https://frop.info)
 ##
 
 > Always give up, lose motivation, embrace frustration.  
