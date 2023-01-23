@@ -6,7 +6,8 @@
 - Estudante de Design na PUC GO
 
 ## Redes sociais
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eusoufrop/)  
+[![](https://img.shields.io/badge/Instagram-696969?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/eusoufrop/) 
+[![](https://img.shields.io/badge/Discord-696969?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/invite/RqxP8ykRJf)
 
 ## Linguagens
 - Javascript
@@ -19,7 +20,7 @@
 
 ## Projetos
 - Bots de Discord - Yoshikage Kira & Miss All Sunday<br>
-- <a href="https://frop.info">Meu site</a>
+- [![](https://img.shields.io/badge/website-696969?style=for-the-badge&logo=About.me&logoColor=black)](https://frop.info)
 
 
 > Always give up, lose motivation, embrace frustration.  
