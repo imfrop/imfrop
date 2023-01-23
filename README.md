@@ -1,4 +1,4 @@
-## Luiz Eduardo
+## Sobre mim
 
 - Programador Amador
 - Brasil
