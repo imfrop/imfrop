@@ -1,20 +1,20 @@
-## The name's frop
+## Meu nome é Luiz, mas sou mais conhecido como frop ou sapo
 
-I write useless code.
+・Programador Amador
+・Brasil
+・Estudante de Design na PUC GO
 
-I live in Monkey Land and i'm a 24/7 slacker.
 ##
-## Where to find me
+## Rede social
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eusoufrop/)  
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/furoppo_)
 ##
-## What languages i use 
+## Linguagens
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)    
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   
-I'm not good at any of them
 ##
-## My only project :^)
-Yoshikage Kira - Discord Bot
+## Projetos
+Bots de Discord - Yoshikage Kira & Miss All Sunday
+Meu site -> frop.info
 ##
 
 > Always give up, lose motivation, embrace frustration.  
