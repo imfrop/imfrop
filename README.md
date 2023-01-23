@@ -18,7 +18,6 @@
 - Bots de Discord - Yoshikage Kira & Miss All Sunday<br>
 - <a href="https://frop.info">Meu site</a>
 
-## 
 
 > Always give up, lose motivation, embrace frustration.  
 > frop, 2021
