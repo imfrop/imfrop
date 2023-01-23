@@ -19,7 +19,7 @@
 - VSCode
 
 ## Projetos
-- Bots de Discord - Yoshikage Kira & Miss All Sunday<br>
+- ![](https://img.shields.io/badge/bots-Yoshikage_Kira_&_Miss_All_Sunday-696969?style=for-the-badge&logo=discord&logoColor=black)
 - [![](https://img.shields.io/badge/frop.info-696969?style=for-the-badge&logo=Firefox-Browser&logoColor=black)](https://frop.info)
 
 
