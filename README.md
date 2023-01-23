@@ -1,7 +1,8 @@
 ## Sobre mim
 
+- 20 anos
 - Programador Amador
-- Brasil
+- Tutor de 2 gatos
 - Estudante de Design na PUC GO
 
 ##
