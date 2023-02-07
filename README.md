@@ -23,5 +23,5 @@
 - [![](https://img.shields.io/badge/frop.info-696969?style=for-the-badge&logo=Firefox-Browser&logoColor=black)](https://frop.info)
 
 
-> Always give up, lose motivation, embrace frustration.  
-> frop, 2021
+> The key to a happy life is to accept you are never actually in control.  
+> - M. Simon, 2015
