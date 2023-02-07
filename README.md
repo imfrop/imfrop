@@ -24,4 +24,4 @@
 
 
 > The key to a happy life is to accept you are never actually in control.  
-> - M. Simon, 2015
+> M. Simon, 2015
