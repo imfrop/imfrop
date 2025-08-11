@@ -1,7 +1,7 @@
 ## Sobre mim
 
-- 22 anos
-- Programador Amador
+- 23 anos
+- Programador hobbyista
 - Tutor de 2 gatos
 - Estudante de Design na PUC GO
 
@@ -13,7 +13,6 @@
 - C++
 - CSS
 - HTML
-- React
 
 ## Plataformas
 - VSCode
